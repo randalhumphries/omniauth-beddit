@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec', '~> 3.4'
   s.add_development_dependency 'factory_girl', '~> 4.5'
 
+  s.add_runtime_dependency 'oauth2', '~> 1.4'
   s.add_runtime_dependency 'omniauth', '~> 1.6.1'
   s.add_runtime_dependency 'omniauth-oauth2', '~> 1.4'
 end
