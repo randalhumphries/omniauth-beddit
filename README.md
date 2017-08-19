@@ -2,6 +2,9 @@
 
 OmniAuth strategy for the [Beddit Pro API](https://docs.google.com/document/d/1D-JULr_zu_B80wFnNgyNjPNPTZXquqm6cqwyRcDUHas/pub) v2 using the OAuth 2.0 protocol.
 
+**NOTE**
+Development of this gem is currently halted as the Beddit Pro API is not available any longer. I plan to continue development once Beddit's API is made available again.
+
 ## Prerequisites
 
 The `omniauth-beddit` gem is dependent on the following gems. These are defined in `omniauth-beddit.gempsec` as runtime dependencies.
